@@ -1,4 +1,4 @@
-package Cognifyz_tasks.Task_1;
+package Cognifyz_tasks.Level_1.Task_1;
 
 import java.util.Scanner;
 
