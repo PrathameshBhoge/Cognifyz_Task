@@ -2,7 +2,7 @@ package Cognifyz_tasks.Level_2.Task_1;
 
 import java.util.Scanner;
 
-public class TicTacToe {
+public class Tic_Tac_Toe {
     private static final int BOARD_SIZE = 3;
     private static final char EMPTY_CELL = ' ';
     private static char[][] board = new char[BOARD_SIZE][BOARD_SIZE];
